@@ -7,6 +7,11 @@ public class solarSystem {
         solar.planet="2";
         solar.star="2";
         System.out.println("the solar system is ready");
+
+        planet2 perox=new planet2();
+        perox.color="green";
+        perox.size="1m";
+        perox.radius="3m";
     }
 }
 
